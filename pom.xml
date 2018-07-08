@@ -4,7 +4,7 @@
 
   <groupId>org.wltea.analyzer</groupId>
   <artifactId>ik-analyzer</artifactId>
-  <version>2012_FF_hf1</version>
+  <version>2012_FF_l74</version>
   <packaging>jar</packaging>
 
   <name>ik-analyzer</name>

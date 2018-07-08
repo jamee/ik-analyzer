@@ -34,15 +34,15 @@ import java.util.List;
 public interface Configuration {
 
 	/**
-	 * 返回useSmart标志位 useSmart =true ，分词器使用智能切分策略， =false则使用细粒度切分
-	 * 
+	 * 返回useSmart标志位
+	 * useSmart =true ，分词器使用智能切分策略， =false则使用细粒度切分
 	 * @return useSmart
 	 */
 	public boolean useSmart();
 
 	/**
-	 * 设置useSmart标志位 useSmart =true ，分词器使用智能切分策略， =false则使用细粒度切分
-	 * 
+	 * 设置useSmart标志位
+	 * useSmart =true ，分词器使用智能切分策略， =false则使用细粒度切分
 	 * @param useSmart
 	 */
 	public void setUseSmart(boolean useSmart);
